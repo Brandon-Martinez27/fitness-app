@@ -1,0 +1,73 @@
+exercise_name,equipment_cd,muscle_grp_nm,primary_muscle,secondary_muscle,tertiary_muscle,movement_pattern,joint_involvement,movement_type
+Barbell Curl,BB,Biceps,biceps,,,elbow flexion,single,Dynamic
+Dumbbell Curl,DB,Biceps,biceps,,,elbow flexion,single,Dynamic
+Spider Curl,DB,Biceps,biceps,,,elbow flexion,single,Dynamic
+Hammer Curl,DB,Biceps,brachialis,brachioradialis,biceps,elbow flexion,single,Dynamic
+Machine Preacher Curl,MN,Biceps,biceps,,,elbow flexion,single,Dynamic
+Barbell Standing Calf Raise,BB,Calves,gastronemius,,,plantar flexion,single,Dynamic
+Dumbbell Seated Calf Raise,DB,Calves,soleus,,,plantar flexion,single,Dynamic
+Machine Calf Raise,MN,Calves,gastronemius,,,plantar flexion,single,Dynamic
+Machine Seated Calf Raise,MN,Calves,soleus,,,plantar flexion,single,Dynamic
+Tibialis Raise,WT,Calves,anterior tibialis,,,dorsi flexion,single,Dynamic
+Machine Pec Dec Fly,MN,Chest,pectorals,anterior deltoid,,horizontal push,single,Dynamic
+Incline Bench Press,BB,Chest,pectorals,triceps,anterior deltoid,horizontal push,multi,Dynamic
+Incline Dumbbell Bench Press,DB,Chest,pectorals,triceps,anterior deltoid,horizontal push,multi,Dynamic
+Dumbbell Bench Press,DB,Chest,pectorals,triceps,anterior deltoid,horizontal push,multi,Dynamic
+Barbell Bench Press,BB,Chest,pectorals,triceps,anterior deltoid,horizontal push,multi,Dynamic
+Push Up,BW,Chest,pectorals,triceps,anterior deltoid,horizontal push,multi,Dynamic
+Incline Chest Press,MN,Chest,pectorals,triceps,anterior deltoid,horizontal push,multi,Dynamic
+Chest Press,MN,Chest,pectorals,triceps,anterior deltoid,horizontal push,multi,Dynamic
+Dip,WT,Chest,pectorals,triceps,anterior deltoid,horizontal push,multi,Dynamic
+Rollouts,BW,Core,rectus abdominus,obliques,transverse abdominus,anti-extension,single,Isometric
+RKC Plank,BW,Core,rectus abdominus,obliques,transverse abdominus,anti-extension,single,Isometric
+Palouf Press,BW,Core,obliques,rectus abdominus,transverse abdominus,anti-rotation,single,Isometric
+Bird dog,BW,Core,obliques,rectus abdominus,transverse abdominus,anti-rotation,single,Isometric
+Dead bug,BW,Core,rectus abdominus,obliques,transverse abdominus,anti-extension,single,Isometric
+Machine Crunch,MN,Core,rectus abdominus,obliques,,trunk flexion,single,Dynamic
+Crunch,WT,Core,rectus abdominus,obliques,,trunk flexion,single,Dynamic
+Captain's Chair Knee Raise,WT,Core,hip flexors,rectus abdominus,obliques,hip flexion,single,Dynamic
+Lying Knee Raise,WT,Core,hip flexors,rectus abdominus,obliques,hip flexion,single,Dynamic
+Barbell Reverse Curl,BB,Forearms,brachioradialis,forearm extensors,biceps,elbow flexion,single,Dynamic
+Barbell Wrist Curl,BB,Forearms,forearm flexors,,,wrist flexion,single,Dynamic
+Barbell Reverse Wrist Curl,BB,Forearms,forearm extensors,,,wrist extension,single,Dynamic
+Dumbbell Wrist Curl,DB,Forearms,forearm flexors,,,wrist flexion,single,Dynamic
+Dumbbell Reverse Wrist Curl,DB,Forearms,forearm extensors,,,wrist extension,single,Dynamic
+Floor Sliding Ham Curls,BW,Hamstrings,hamstrings,,,knee flexion,single,Dynamic
+Stability Ball Ham Curls,BW,Hamstrings,hamstrings,,,knee flexion,single,Dynamic
+Nordic Drop,BW,Hamstrings,hamstrings,glutes,,knee flexion,single,Negative
+Seated Leg Curl,MN,Hamstrings,hamstrings,,,knee flexion,single,Dynamic
+Lying Leg Curl,MN,Hamstrings,hamstrings,,,knee flexion,single,Dynamic
+Romanian Deadlift,BB,Hips,hamstrings,glutes,lumbar erectors,hip extension,multi,Dynamic
+45 Degree Hip Extension,WT,Hips,lumbar erectors,glutes,hamstrings,trunk extension,multi,Dynamic
+Straight Arm Cable Pulldown,CB,Lats,latissimus dorsi,triceps,,vertical pull,multi,Dynamic
+Machine Pullover,MN,Lats,latissimus dorsi,triceps,rear deltoid,vertical pull,multi,Dynamic
+Dumbbell Pullover,DB,Lats,latissimus dorsi,triceps,,vertical pull,multi,Dynamic
+Pulldown,MN,Lats,latissimus dorsi,biceps,rear deltoid,vertical pull,multi,Dynamic
+Chin Up,WT,Lats,latissimus dorsi,biceps,rear deltoid,vertical pull,multi,Dynamic
+Sumo Deadlift,BB,Legs-Hips,glutes,hamstrings,quadriceps,hip extension,multi,Dynamic
+Barbell Squat,BB,Legs-Hips,quadriceps,glutes,hamstrings,squat,multi,Dynamic
+Wall Sit,BW,Legs-Hips,quadriceps,glutes,hamstrings,squat,multi,Isometric
+Leg Press,MN,Legs-Hips,quadriceps,glutes,hamstrings,squat,multi,Dynamic
+Trap Bar Deadlift,WT,Legs-Hips,glutes,quadriceps,hamstrings,hip extension,multi,Dynamic
+Split Squat,WT,Legs-Hips,quadriceps,glutes,hamstrings,lunge,multi,Dynamic
+Leg Extension,MN,Quads,quadriceps,,,knee extension,single,Dynamic
+Machine Shoulder Press,MN,Shoulders,anterior deltoid,triceps,pectorals,vertical push,multi,Dynamic
+Barbell Military Press,BB,Shoulders,anterior deltoid,triceps,pectorals,vertical push,multi,Dynamic
+Cable Lateral Raise,CB,Shoulders,lateral deltoid,,,vertical push,single,Dynamic
+Dumbbell Lateral Raise,DB,Shoulders,lateral deltoid,,,vertical push,single,Dynamic
+Dumbbell Front Raise,DB,Shoulders,anterior deltoid,,,vertical push,single,Dynamic
+Machine Lateral Raise,MN,Shoulders,lateral deltoid,,,vertical push,single,Dynamic
+Barbell Skullcrusher,BB,Triceps,triceps,,,elbow extension,single,Dynamic
+Cable Overhead Extension,CB,Triceps,triceps,,,elbow extension,single,Dynamic
+Dumbbell Overhead Extension,DB,Triceps,triceps,,,elbow extension,single,Dynamic
+Dumbell Skullcrusher,DB,Triceps,triceps,,,elbow extension,single,Dynamic
+Tricep Pressdown,CB,Triceps,triceps,,,elbow extension,single,Dynamic
+Bent Over Barbell Row,BB,Upper Back,rhomboids,rear deltoids,biceps,horizontal pull,multi,Dynamic
+Barbell Shrug,BB,Upper Back,trapesius,,,vertical pull,single,Dynamic
+Inverted Row,BW,Upper Back,rhomboids,rear deltoids,biceps,horizontal pull,multi,Dynamic
+Seated Cable Row,CB,Upper Back,rhomboids,rear deltoids,biceps,horizontal pull,multi,Dynamic
+Chest Supported Dumbbell Row,DB,Upper Back,rhomboids,rear deltoids,biceps,horizontal pull,multi,Dynamic
+Bent Over Dumbbell Row,DB,Upper Back,rhomboids,rear deltoids,biceps,horizontal pull,multi,Dynamic
+Machine Row,MN,Upper Back,rhomboids,rear deltoids,biceps,horizontal pull,multi,Dynamic
+Dumbbell Rear Delt Fly,DB,Upper Back,rear deltoids,trapesius,rhomboids,horizontal pull,single,Dynamic
+Machine Rear Delt Fly,MN,Upper Back,rear deltoids,trapesius,rhomboids,horizontal pull,single,Dynamic
